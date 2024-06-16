@@ -7,7 +7,7 @@ I'm a Computer Science Student 😊.<br>💻 Worked on many different technologi
 [![HackerRank](https://img.shields.io/badge/HackerRank-%230077B5.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/shivamkradp1411) 
  [![Code360](https://img.shields.io/badge/Code360-%230077B5.svg?logo=Code360&logoColor=blue)](https://www.naukri.com/code360/profile/Shivam1411) 
  [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/shivam-kumar-36938323a/) 
-  [![instagram](https://img.shields.io/badge/instagram-%230077B5.svg?logo=instagram&logoColor=red)](https://www.instagram.com/_its__shivam_011?igsh=MWE2c3Y2NTlkYXg3Yg==) 
+  [![instagram](https://img.shields.io/badge/instagram-%230077B5.svg?logo=instagram&logoColor=red)](https://www.instagram.com/_shivam_kumar__14?igsh=MWE2c3Y2NTlkYXg3Yg==) 
 
 
 # 💻 Tech Stack:
