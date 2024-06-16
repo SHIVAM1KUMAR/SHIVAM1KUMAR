@@ -3,7 +3,8 @@ I'm a Computer Science Student 😊.<br>💻 Worked on many different technologi
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100026845477802) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/[[its_shivam_011?igsh=MWE2c3Y2NTlkYXg3Yg==](https://www.instagram.com/itz_shivam_011?igsh=MWE2c3Y2NTlkYXg3Yg==)](https://www.instagram.com/itz_shivam_011?igsh=MWE2c3Y2NTlkYXg3Yg==)) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100026845477802)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/[[its_shivam_011?igsh=MWE2c3Y2NTlkYXg3Yg==](https://www.instagram.com/itz_shivam_011?igsh=MWE2c3Y2NTlkYXg3Yg==)](https://www.instagram.com/itz_shivam_011?igsh=MWE2c3Y2NTlkYXg3Yg==)) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shivam-kumar-36938323a) 
 [![HackerRank](https://img.shields.io/badge/HackerRank-%230077B5.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/shivamkradp1411) 
  [![Code360](https://img.shields.io/badge/Code360-%230077B5.svg?logo=Code360&logoColor=blue)](https://www.naukri.com/code360/profile/Shivam1411) 
