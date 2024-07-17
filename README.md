@@ -16,7 +16,7 @@ I'm a final year Computer Science Student 😊.<br>💻 Worked on many different
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SHIVAM1KUMAR&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SHIVAM1KUMAR)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SHIVAM1KUMAR&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/username=SHIVAM1KUMAR&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
