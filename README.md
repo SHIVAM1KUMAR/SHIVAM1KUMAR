@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm a final year Computer Science Student 😊.<br>💻 Worked on many different technologies.
-# Problem solving DSA
+# Problem solving DSA #MERN Stack DEVELOPER
 
 
 ## 🌐 Socials:
