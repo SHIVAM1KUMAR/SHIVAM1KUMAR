@@ -18,11 +18,11 @@ Full stack developer
 ![](https://github-readme-stats.vercel.app/api?username=SHIVAM1KUMAR&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SHIVAM1KUMAR)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SHIVAM1KUMAR&them&e=dark)](https://git.io/streak-stats)
 
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/username=SHIVAM1KUMAR&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/username=SHIVAM1KUMARthem&e=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SHIVAM1KUMAR&theme=radical&no-frame=false&no-bg=true&margin-w=4)
