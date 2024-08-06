@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a final year Computer Science Student 😊.<br>💻 Worked on many different technologies.<br>MERN
+I'm a final year Computer Science Student 😊.<br>💻 Worked on many different technologies.
 
 
 
