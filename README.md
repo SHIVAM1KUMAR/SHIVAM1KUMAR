@@ -19,7 +19,7 @@ I'm a final year Computer Science Student 😊.<br>💻 Worked on many different
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SHIVAM1KUMAR&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SHIVAM1KUMAR&theme=dark)](https://git.io/streak-stats)
 
 
 
