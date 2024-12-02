@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a final year Computer Science Student 😊.<br>💻 Worked on many different technologies.<br> #WEB_DEV<br>#Problem solving<br> Software developer
+I'm a final year Computer Science Student 😊.<br> #WEB_DEV<br>#Problem solving<br> Aspiring Software developer
 
 
 
