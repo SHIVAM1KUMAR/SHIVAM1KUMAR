@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a final year Computer Science Student 😊.<br> # WEB-DEVELOPMENT: Mern's developer<br>#Problem Solving<br> Aspiring Software developer
+I'm a final year Computer Science Graduate.<br> # WEB-DEVELOPMENT: Mern's developer<br>#Problem Solving<br> Aspiring Software developer
 
 
 
