@@ -18,7 +18,7 @@ I'm a final year Computer Science Graduate.<br> # WEB-DEVELOPMENT: Mern's develo
 # 📊 GitHub Stats:
 ![SHIVAM's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHIVAM1KUMAR&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SHIVAM1KUMAR)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SHIVAM1KUMAR&theme=transparent" alt="GitHub Streak" /></a>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/username=SHIVAM1KUMARthem&e=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
