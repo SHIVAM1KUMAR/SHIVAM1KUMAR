@@ -31,8 +31,7 @@ I'm a MERN_STACK DEVELOPER.<br> # FULL STACK DEVELOPMENT <br>#Problem Solving<br
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 # 📊 GitHub Stats:
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=SHIVAM1KUMAR&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SHIVAM1KUMAR)](https://git.io/streak-stats)
 
 
 
