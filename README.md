@@ -35,10 +35,8 @@ I'm a MERN_STACK DEVELOPER.<br> # FULL STACK DEVELOPMENT <br>#Problem Solving<br
 
 
 
+![Visitor Count](komarev.com{SHIVAM1KUMAR}&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=SHIVAM1KUMAR&icon=1&color=0" />
-</p>
 
 <!--streak maintain--!>
 
