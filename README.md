@@ -15,12 +15,12 @@ I'm a **MERN Stack Developer** and **Software Developer** passionate about build
 
 ---
 
-## 🔥 GitHub Streak (Includes Max Streak)
+## 🔥 GitHub Streak 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SHIVAM1KUMAR&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SHIVAM1KUMAR&theme=dark)](https://git.io/streak-stats)
 
-> 🏅 **Max Streak & Current Streak are automatically shown**  
-> (No extra setup required)
+ 
+
 
 ---
 
