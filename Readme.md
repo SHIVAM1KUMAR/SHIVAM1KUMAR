@@ -81,7 +81,7 @@ while goal != "achieved":
     if skills + experience > 100000:
         goal = "achieved"   # now price tags don't matter
 
-# — Shivam Kumar 🚀
+# — Shivam Kumar 
 ```
 ---
 
@@ -95,7 +95,7 @@ while goal != "achieved":
 
 ---
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
+  <a>
     <img src="https://visitcountpro.netlify.app/api?id=SHIVAM1KUMAR&pretty=true" alt="Profile Views"/>
   </a>
 </p>
