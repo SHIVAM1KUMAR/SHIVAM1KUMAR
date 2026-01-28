@@ -1,4 +1,4 @@
-# 💫 About Me
+j# 💫 About Me
 I am a **MERN Stack Developer** with a strong passion for building **scalable, user-friendly web applications**. I enjoy solving real-world problems through code and continuously improving my development skills.
 
 As an aspiring developer in the **AI-driven era**, I am actively expanding my knowledge in **modern technologies and intelligent systems** to stay ahead of the curve. I am a **quick learner, highly adaptable**, and always eager to take on challenges that push my technical and creative limits.
@@ -89,7 +89,7 @@ while goal != "achieved":
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### Thanks for Visiting my GitHub Profile!
--- Snake Game Repo View -->
+<-- Snake Game Repo View -->
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
