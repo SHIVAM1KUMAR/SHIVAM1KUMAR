@@ -3,7 +3,6 @@ I am a **MERN Stack Developer** with a strong passion for building **scalable, u
 
 As an aspiring developer in the **AI-driven era**, I am actively expanding my knowledge in **modern technologies and intelligent systems** to stay ahead of the curve. I am a **quick learner, highly adaptable**, and always eager to take on challenges that push my technical and creative limits.
 
-
 ---
 
 ## 🌐 Socials
@@ -12,7 +11,6 @@ As an aspiring developer in the **AI-driven era**, I am actively expanding my kn
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/shivamkradp1411)  
 [![Code360](https://img.shields.io/badge/Code360-0057FF?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.naukri.com/code360/profile/Shivam1411)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/SHIVAM_KUMAR11)
-
 
 ---
 
@@ -51,11 +49,16 @@ As an aspiring developer in the **AI-driven era**, I am actively expanding my kn
 
 # 📊 GitHub Stats
 
-![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SHIVAM1KUMAR&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVAM1KUMAR&theme=radical&hide_border=true&layout=compact)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=SHIVAM1KUMAR&theme=radical&hide_border=true)
+<div align="center">
+
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=SHIVAM1KUMAR&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ---
+
 ```python
 # If you want to buy things without looking at the price tag,
 # then learn to code without looking at the clock.
@@ -84,20 +87,20 @@ while goal != "achieved":
 
 # — Shivam Kumar 
 ```
+
 ---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### Thanks for Visiting my GitHub Profile!
+
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 ---
-<p align="center">
-  <a>
-    <img src="https://visitcountpro.netlify.app/api?id=SHIVAM1KUMAR&pretty=true" alt="Profile Views"/>
-  </a>
-</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SHIVAM1KUMAR&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
