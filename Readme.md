@@ -1,3 +1,4 @@
+
 # 💫 About Me
 I am a **MERN Stack Developer** with a strong passion for building **scalable, user-friendly web applications**. I enjoy solving real-world problems through code and continuously improving my development skills.
 
