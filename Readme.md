@@ -49,11 +49,9 @@ As an aspiring developer in the **AI-driven era**, I am actively expanding my kn
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=SHIVAM1KUMAR" alt="GitHub Streak" />
-  </a>
-</p>
+
+ [![GitHub Streak](https://streak-stats.demolab.com?user=SHIVAM1KUMAR&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 
 
 ---
